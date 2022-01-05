@@ -75,7 +75,7 @@
 		"variables": {
 			"soruceRelativeURL": {
 				"type": "String",
-				"defaultValue": "https://raw.githubusercontent.com/MirceaRaduTrifu/MirceaRaduTrifu/main/hospital_admissions.csv"
+				"defaultValue": "MirceaRaduTrifu/MirceaRaduTrifu/main/hospital_admissions.csv"
 			},
 			"sinkFileName": {
 				"type": "String",
