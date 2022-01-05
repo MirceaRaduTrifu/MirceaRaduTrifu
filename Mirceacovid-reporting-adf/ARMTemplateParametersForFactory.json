@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Mirceacovid-reporting-adf"
+		},
+		"ls_ablob_covidreportingsa_connectionString": {
+			"value": ""
+		},
+		"ls_adls_covidrepoardl_accountKey": {
+			"value": ""
+		},
+		"ls_adls_covidrepoardl_properties_typeProperties_url": {
+			"value": "https://mirceacovidreportingdl.dfs.core.windows.net"
+		},
+		"ls_http_opendata_ecdc_europa_eu_properties_typeProperties_url": {
+			"value": "https://github.com"
+		},
+		"tr_ingest_population_data_properties_typeProperties_scope": {
+			"value": "/subscriptions/336b3813-5371-49ad-923d-2159000c2fc4/resourceGroups/covid-reporting_rg/providers/Microsoft.Storage/storageAccounts/mirceacovidreportingsa"
+		}
+	}
+}
