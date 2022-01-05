@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "HttpServerLocation",
-				"relativeUrl": "MirceaRaduTrifu/MirceaRaduTrifu/blob/main/cases_deaths.csv"
+				"relativeUrl": "MirceaRaduTrifu/MirceaRaduTrifu/main/cases_deaths.csv"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
