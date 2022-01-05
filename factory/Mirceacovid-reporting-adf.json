@@ -1,0 +1,9 @@
+{
+	"name": "Mirceacovid-reporting-adf",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b635aa6e-3dc0-4d9f-9850-a75e76ba54a5",
+		"tenantId": "022a971c-33e0-49ce-b869-b2df48dd07f8"
+	}
+}
